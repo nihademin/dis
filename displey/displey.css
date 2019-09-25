@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justifly-between{
+    justify-content: space-between;
+}
+
+
+.img{
+    width: 24%;
+    height: 150px;
+    margin-bottom: 10px;
+
+}
+
+.img img{
+    width: 100%;
+    height: 100%;
+}
+
+
+#details{
+    background-image: url(https://bootstrapmade.com/demo/themes/Alstar/img/parallax/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+
+.text{
+    color: white;
+    text-align: center;
+
+}
+
+
+.text h1{
+    font-size: 35px;
+
+}
+
+
+li{
+    list-style: none;
+
+}
+
+
